@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to our Bitopia
 
 ## Project info
@@ -43,3 +44,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+=======
+# BITOPIA
+My edtech business
+>>>>>>> 32d9b6ce1307602ecf5b7146b61ceeb2f95fb91b
